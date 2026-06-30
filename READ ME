@@ -1,4 +1,4 @@
 This is a multiply Routine written for the commodore machines in 6502 ASM 
 It takes in 2 8 bit numbers in the variables Multiplier1 and Multiplier2 and stores and outputs a 16 bit result.#
 This perticular file has only been tested for the c64 but should work on a 128 or an expanded vic 20
-
+The high byte is stored in $C200 
